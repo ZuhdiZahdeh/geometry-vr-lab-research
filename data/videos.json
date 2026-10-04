@@ -1,0 +1,71 @@
+[
+  {
+    "id": "VID-01",
+    "titleArabic": "التهيئة والتدريب على التحكم ثم دخول مختبر المجسّمات",
+    "path": "assets/videos/01-onboarding-practice.mp4",
+    "poster": "assets/images/video-01-poster.jpg",
+    "duration": 128.01039,
+    "sourceFilename": "01_Onboarding_Practice(1).mp4",
+    "historical": true
+  },
+  {
+    "id": "VID-02",
+    "titleArabic": "استكشاف المجسّمات وخصائصها",
+    "path": "assets/videos/02-3d-solids-lab.mp4",
+    "poster": "assets/images/video-02-poster.jpg",
+    "duration": 59.038125,
+    "sourceFilename": "02_3D_Solids_Lab(1).mp4",
+    "historical": true
+  },
+  {
+    "id": "VID-03",
+    "titleArabic": "لوحة التكريم داخل البيئة",
+    "path": "assets/videos/03-tribute-panel.mp4",
+    "poster": "assets/images/video-03-poster.jpg",
+    "duration": 19.001542,
+    "sourceFilename": "03_Tribute_Panel(1).mp4",
+    "historical": true
+  },
+  {
+    "id": "VID-04",
+    "titleArabic": "مختبر التحويلات الهندسية",
+    "path": "assets/videos/04-geometric-transformations.mp4",
+    "poster": "assets/images/video-04-poster.jpg",
+    "duration": 165.046729,
+    "sourceFilename": "04_Geometric_Transformations(1).mp4",
+    "historical": true,
+    "publicationTransformArabic": "أُعيد ترميز الفيديو للنشر باستخدام H.264، إعداد CRF 23 وpreset medium، مع الحفاظ على الدقة 848×478 ومدة المقطع، ونسخ الصوت الأصلي دون إعادة ترميز. بقي الملف الأصلي كما رُفع.",
+    "sourceSha256": "b9815cb380e7d334cea8874d48b7e7d323f12fcdb60ae5ada932602d81420994",
+    "publishedSha256": "b3efac0af4154bd0ac5490512302cf3985df092609a0b9a37cceaeefa8362805"
+  },
+  {
+    "id": "VID-05",
+    "titleArabic": "تحديات التحويلات الثلاثة ومؤشر الإنجاز",
+    "path": "assets/videos/05-transformation-challenges.mp4",
+    "poster": "assets/images/video-05-poster.jpg",
+    "duration": 155.045918,
+    "sourceFilename": "05_Transformation_Challenges(1).mp4",
+    "historical": true,
+    "publicationTransformArabic": "أُعيد ترميز الفيديو للنشر باستخدام H.264، إعداد CRF 23 وpreset medium، مع الحفاظ على الدقة 848×478 ومدة المقطع، ونسخ الصوت الأصلي دون إعادة ترميز. بقي الملف الأصلي كما رُفع.",
+    "sourceSha256": "c4ae3f363c16ae28627caa99a3512d1f9feb717570e31fc83c975e8dec578c5c",
+    "publishedSha256": "0729c5054c3a50d1c1762e87c22115eea3d953e86c562db05523a44632739bc5"
+  },
+  {
+    "id": "VID-06",
+    "titleArabic": "تجربة المقاطع المستوية الناتجة من قطع المجسّمات",
+    "path": "assets/videos/06-cross-sections-experiment.mp4",
+    "poster": "assets/images/video-06-poster.jpg",
+    "duration": 82.039992,
+    "sourceFilename": "06_Cross_Sections_Experiment(1).mp4",
+    "historical": true
+  },
+  {
+    "id": "VID-07",
+    "titleArabic": "مركز تعلم المقاطع والتحدي والتغذية الراجعة",
+    "path": "assets/videos/07-cross-sections-learning-center.mp4",
+    "poster": "assets/images/video-07-poster.jpg",
+    "duration": 106.04194,
+    "sourceFilename": "07_Cross_Sections_Learning_Center(1).mp4",
+    "historical": true
+  }
+]
