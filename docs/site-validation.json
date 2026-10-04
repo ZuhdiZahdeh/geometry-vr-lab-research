@@ -1,0 +1,93 @@
+{
+  "generated_at_utc": "2026-10-04T03:51:55.888933+00:00",
+  "validator": "scripts/validate_site.py",
+  "status": "passed",
+  "scope": {
+    "local_files_and_fragments": true,
+    "html_ids_and_image_alternatives": true,
+    "arabic_rtl_root": true,
+    "source_text_and_placement_coverage": true,
+    "external_network_requests": false,
+    "scientific_reference_correctness": "not assessed",
+    "visual_rendering_and_media_playback": "not assessed"
+  },
+  "summary": {
+    "html_pages": 25,
+    "error_count": 0,
+    "warning_count": 0,
+    "unique_local_assets": 42,
+    "unique_external_urls_skipped": 58,
+    "images_checked": 18,
+    "external_urls_skipped": 108,
+    "local_urls_checked": 1068,
+    "html_fragments_checked": 560,
+    "search_targets_checked": 135
+  },
+  "source_coverage": {
+    "paragraphs": {
+      "expected": 437,
+      "covered": 437,
+      "missing": []
+    },
+    "tables": {
+      "expected": 23,
+      "covered": 23,
+      "missing": []
+    },
+    "images": {
+      "expected": 9,
+      "covered": 9,
+      "missing": []
+    },
+    "references": {
+      "expected": 32,
+      "covered": 32,
+      "missing": []
+    }
+  },
+  "asset_groups": {
+    "assets": [
+      "assets/css/site.css",
+      "assets/images/figure-i-01.png",
+      "assets/images/figure-i-02.png",
+      "assets/images/figure-i-03.jpeg",
+      "assets/images/figure-i-04.jpeg",
+      "assets/images/figure-i-05.jpeg",
+      "assets/images/figure-i-06.jpeg",
+      "assets/images/figure-i-07.png",
+      "assets/images/figure-i-08.png",
+      "assets/images/figure-i-09.png",
+      "assets/images/img-s-001.jpeg",
+      "assets/images/img-s-002.jpeg",
+      "assets/images/img-s-003.jpeg",
+      "assets/images/img-s-007.jpeg",
+      "assets/images/img-s-010.jpeg",
+      "assets/images/img-s-011.jpeg",
+      "assets/images/img-s-013.jpeg",
+      "assets/images/img-s-014.jpeg",
+      "assets/images/video-01-poster.jpg",
+      "assets/images/video-02-poster.jpg",
+      "assets/images/video-03-poster.jpg",
+      "assets/images/video-04-poster.jpg",
+      "assets/images/video-05-poster.jpg",
+      "assets/images/video-06-poster.jpg",
+      "assets/images/video-07-poster.jpg",
+      "assets/js/site.js",
+      "assets/videos/01-onboarding-practice.mp4",
+      "assets/videos/02-3d-solids-lab.mp4",
+      "assets/videos/03-tribute-panel.mp4",
+      "assets/videos/04-geometric-transformations.mp4",
+      "assets/videos/05-transformation-challenges.mp4",
+      "assets/videos/06-cross-sections-experiment.mp4",
+      "assets/videos/07-cross-sections-learning-center.mp4"
+    ],
+    "videos": [],
+    "downloads": [
+      "downloads/research-inventory.xlsx",
+      "downloads/research-map.docx",
+      "downloads/research-source-2026-07-29.docx"
+    ]
+  },
+  "errors": [],
+  "warnings": []
+}

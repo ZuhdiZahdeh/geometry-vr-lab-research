@@ -1,0 +1,196 @@
+{
+  "scene": "Assets/VR_LearningHub_Foundations_Working.unity",
+  "controller_file_id": 8100000003,
+  "clips": [
+    {
+      "number": 1,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_01_Welcome_AR.mp3",
+      "guid": "732f6918b86d4cd4bd783fbc07a496f3",
+      "field": "welcomeClip",
+      "event": "stage entry or new attempt",
+      "duration_seconds": 14.524082,
+      "size_bytes": 249450,
+      "sha256": "4f083aa3b35716ac293bb10580fdbee18a916450557d841e42764140de688736"
+    },
+    {
+      "number": 2,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_02_SelectCube_AR.mp3",
+      "guid": "f295da086c814e05895fb90040300003",
+      "field": "selectCubeClip",
+      "event": "begin cube task",
+      "duration_seconds": 4.780408,
+      "size_bytes": 93551,
+      "sha256": "b8a87c4d8fa19af40b332772c170e0c946a4793b5a55bad4927415538459d668"
+    },
+    {
+      "number": 3,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_03_CubeFace_AR.mp3",
+      "guid": "cefb6cef0fd74d1faeabe7fcdf8563ad",
+      "field": "cubeFaceClip",
+      "event": "correct cube grab",
+      "duration_seconds": 6.347755,
+      "size_bytes": 118629,
+      "sha256": "af5292e2983642b445e553cc450dd232b965472f0e32934b43569bd722984ff9"
+    },
+    {
+      "number": 4,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_04_CubeEdge_AR.mp3",
+      "guid": "cf51e4ae19964517bc64da03fab98257",
+      "field": "cubeEdgeClip",
+      "event": "cube face accepted",
+      "duration_seconds": 5.093878,
+      "size_bytes": 98567,
+      "sha256": "1d7fc89aac631e7cc603e89f815ec3790fb282215f5fc23c4e29d039cedb9905"
+    },
+    {
+      "number": 5,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_05_CubeVertex_AR.mp3",
+      "guid": "0c1422e37f61421f8569ae6d8f17fbf9",
+      "field": "cubeVertexClip",
+      "event": "cube edge accepted",
+      "duration_seconds": 4.545306,
+      "size_bytes": 89789,
+      "sha256": "bc3cc01a01a588ee3dd1ae1972c2457244f008e3fbaa1e23c61b488c608d2e4b"
+    },
+    {
+      "number": 6,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_06_PlaceCube_AR.mp3",
+      "guid": "b0cb5014227a4688b85f3fabf53acba9",
+      "field": "placeCubeClip",
+      "event": "cube vertex accepted, docking still required",
+      "duration_seconds": 5.381224,
+      "size_bytes": 103164,
+      "sha256": "bf83d33bc50193fd7474c244e23a03a75c63be367c4258275c9da4dfa75c8ed2"
+    },
+    {
+      "number": 7,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_07_SelectCylinder_AR.mp3",
+      "guid": "ba63affe5c6e4a32afc68c97440c5385",
+      "field": "selectCylinderClip",
+      "event": "begin cylinder task",
+      "duration_seconds": 5.32898,
+      "size_bytes": 102328,
+      "sha256": "ae7ac72f68651cc854f41c3997feb928e742e111d662698ebc2d253a5080340c"
+    },
+    {
+      "number": 8,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_08_FirstBase_AR.mp3",
+      "guid": "451a201e938f4154b9130f287acc268c",
+      "field": "firstBaseClip",
+      "event": "correct cylinder grab",
+      "duration_seconds": 4.858776,
+      "size_bytes": 94805,
+      "sha256": "a02931520530a0ffb084fbea222647475f0d0da8090f24bb32282bcb08ac0a91"
+    },
+    {
+      "number": 9,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_09_SecondBase_AR.mp3",
+      "guid": "26a4c15aa84047f79eb3c4f7771bf0fd",
+      "field": "secondBaseClip",
+      "event": "first distinct base accepted",
+      "duration_seconds": 4.362449,
+      "size_bytes": 86864,
+      "sha256": "e336f256ee2953ae420d31c5e0c2065dfef86ddc3239e9352a5768c5e05c30c9"
+    },
+    {
+      "number": 10,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_10_BaseAlreadySelected_AR.mp3",
+      "guid": "55ef461b19fb4abd9ff29f598c079fb5",
+      "field": "baseAlreadySelectedClip",
+      "event": "same cylinder base repeated",
+      "duration_seconds": 5.433469,
+      "size_bytes": 104000,
+      "sha256": "c65db42991c5377f2dc91ce37fa7e1ac25c367b2823a386112a08be315137666"
+    },
+    {
+      "number": 11,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_11_PlaceCylinder_AR.mp3",
+      "guid": "a1893ec42ded481da12d96a1346b6816",
+      "field": "placeCylinderClip",
+      "event": "second distinct base accepted, docking still required",
+      "duration_seconds": 6.4,
+      "size_bytes": 119465,
+      "sha256": "e3af1fb3b08788308f993d68fed0f2d541aa491aec6f7fa14f4ae83152343ee2"
+    },
+    {
+      "number": 12,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_12_SelectSphere_AR.mp3",
+      "guid": "e26b61fd94484fa3b602b02da4ae65cc",
+      "field": "selectSphereClip",
+      "event": "begin sphere task",
+      "duration_seconds": 4.075102,
+      "size_bytes": 82266,
+      "sha256": "03708ec6eaf82763a31b22164e3254f47dbe616d7f53a235852e95faff08d60a"
+    },
+    {
+      "number": 13,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_13_PlaceSphere_AR.mp3",
+      "guid": "cbab1309e32a4735bf0e6c2a0229ed9e",
+      "field": "placeSphereClip",
+      "event": "correct sphere grab, docking still required",
+      "duration_seconds": 5.746939,
+      "size_bytes": 109016,
+      "sha256": "b10677de309a41f831238c2534f7e69ec7a7f0254c0c1e3beda599c69f6776b2"
+    },
+    {
+      "number": 14,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_14_AllTasksComplete_AR.mp3",
+      "guid": "9aa285d905ac4a7dafca857a3d3ffa35",
+      "field": "allTasksCompleteClip",
+      "event": "after completion celebration, once per attempt",
+      "duration_seconds": 10.762449,
+      "size_bytes": 189264,
+      "sha256": "1ee902d553015457a3b0c9f55cf5d59a33d26a80686f6b35fda4e1d7ce82e54d"
+    },
+    {
+      "number": 15,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_15_WrongFeature_AR.mp3",
+      "guid": "470eb6a85c3d45f8b19d250862327de7",
+      "field": "wrongFeatureClip",
+      "event": "wrong property or wrong solid",
+      "duration_seconds": 4.832653,
+      "size_bytes": 94387,
+      "sha256": "594239a38d9e532561a748c2d4a9f9b6d7f562697bca5629381538b8f029cb35"
+    },
+    {
+      "number": 16,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_16_WrongSocket_AR.mp3",
+      "guid": "e7551326cc864bfda63579394b411f5b",
+      "field": "wrongSocketClip",
+      "event": "wrong socket trigger",
+      "duration_seconds": 5.459592,
+      "size_bytes": 104418,
+      "sha256": "55a6cb98e0a129fd31ec9842325c1be398057d2582274fed660bb287d02b992a"
+    },
+    {
+      "number": 17,
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_17_Help_AR.mp3",
+      "guid": "cb53055bded5451e9af40a1db4b71896",
+      "field": "helpClip",
+      "event": "help requested",
+      "duration_seconds": 8.803265,
+      "size_bytes": 157917,
+      "sha256": "96f887899f5390674afe6aa2bd5a0790ee0bd9225e50ef921e3d005ebeeb22c2"
+    }
+  ],
+  "unbound_alternates": [
+    {
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/VO_FND_01_Welcome_Alternate_AR.mp3",
+      "guid": "c25253edd1bb40cab60b5cdb8c76d987",
+      "duration_seconds": 15.046531,
+      "size_bytes": 257809,
+      "sha256": "111bb4659f17b7a802030a12b17bc69484dff002cd6af459b2bb75d62fa3af82"
+    }
+  ],
+  "effects": [
+    {
+      "file": "Assets/_GeometryVR/Audio/VoiceOver/Foundations/success_toolMatch_b.mp3",
+      "guid": "e07c316f751f4d938dad5dff86479dd6",
+      "field": "completionCelebrationClip",
+      "event": "once at 3/3, followed by allTasksCompleteClip; cancelled on exit or media interruption",
+      "duration_seconds": 3.912,
+      "size_bytes": 78240,
+      "sha256": "3d0a1356ae918d9650b5be3c3085562e7f42f99c1331a4a428f2d2d9ebcc83d1"
+    }
+  ]
+}
