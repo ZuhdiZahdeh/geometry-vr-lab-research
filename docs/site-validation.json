@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-04T03:51:55.888933+00:00",
+  "generated_at_utc": "2026-10-04T14:49:13.013883+00:00",
   "validator": "scripts/validate_site.py",
   "status": "passed",
   "scope": {
@@ -15,11 +15,11 @@
     "html_pages": 25,
     "error_count": 0,
     "warning_count": 0,
-    "unique_local_assets": 42,
+    "unique_local_assets": 43,
     "unique_external_urls_skipped": 58,
     "images_checked": 18,
     "external_urls_skipped": 108,
-    "local_urls_checked": 1068,
+    "local_urls_checked": 1069,
     "html_fragments_checked": 560,
     "search_targets_checked": 135
   },
@@ -48,6 +48,7 @@
   "asset_groups": {
     "assets": [
       "assets/css/site.css",
+      "assets/fonts/cairo-variable.woff2",
       "assets/images/figure-i-01.png",
       "assets/images/figure-i-02.png",
       "assets/images/figure-i-03.jpeg",
