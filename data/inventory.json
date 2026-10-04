@@ -7,7 +7,7 @@
       "id": "IMG-L-001",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/01_VR_Interaction_2560x1440.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "5e7fe8011be9e1a172bdde1f1b11233fae1566787acc3290a31c1898c112287a"
@@ -16,7 +16,7 @@
       "id": "IMG-L-002",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/28-07-2026-01.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "8fe9b3ff3bf805e4f5f9fb644adfe3ae95f97d272e6da3635f49e94fc653a712"
@@ -25,7 +25,7 @@
       "id": "IMG-L-003",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/28-07-2026-02.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "58090100121923919dafa21bcf02218a9e605dc206c7e0779083547c450c4907"
@@ -34,7 +34,7 @@
       "id": "IMG-L-004",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/28-07-2026-03.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "9c8cfe586eea7b764243b6e80312a968f4bce44fe86c6fa4472553e81133f1c3"
@@ -43,7 +43,7 @@
       "id": "IMG-L-005",
       "titleArabic": "هوية التطبيق وأغلفته",
       "source": "images.zip :: images/cover Apps.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "e82aa06ee5d1472cea93ed6f33bcc77fb19a24e48c84923ebbc80dbb4b3a77d8"
@@ -52,7 +52,7 @@
       "id": "IMG-L-006",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/Design and Development of an Immersive Interactive Virtual Reality Environment.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "80544b2c29ea2f19daaa80cd10f5aa2f32f6d2254f9381ac94db64ec20ff793f"
@@ -61,7 +61,7 @@
       "id": "IMG-L-007",
       "titleArabic": "هوية التطبيق وأغلفته",
       "source": "images.zip :: images/geometry-vr-lab.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "ba23d92d4d29f6631d18f12cf9cbe05f946e066dd287eea2ab9b255e926f94c3"
@@ -70,7 +70,7 @@
       "id": "IMG-L-008",
       "titleArabic": "هوية التطبيق وأغلفته",
       "source": "images.zip :: images/GeometryVRLab_Foreground_180x180.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "1fe982e40d2036d498d6f42f11256de9ca4d265f177e5be1f06b76c66886521e"
@@ -79,7 +79,7 @@
       "id": "IMG-L-009",
       "titleArabic": "هوية التطبيق وأغلفته",
       "source": "images.zip :: images/GeometryVRLab_Icon_512x512.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "14cd28043a989df79538fa21dcd9a52d783a1d1ce3a1fc33f3d16a8048c391ff"
@@ -88,7 +88,7 @@
       "id": "IMG-L-010",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/New Images/01_VR_Interaction_2560x1440.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "5e7fe8011be9e1a172bdde1f1b11233fae1566787acc3290a31c1898c112287a"
@@ -97,7 +97,7 @@
       "id": "IMG-L-011",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/New Images/02_Lab_Overview_2560x1440.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "dc77394b959f65b9bb516355618e03ffe4ee6a0f752fb825728e515283004653"
@@ -106,7 +106,7 @@
       "id": "IMG-L-012",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/New Images/03_Cube_Learning_2560x1440.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "f7109feb1df6ab93e6806ddb207d348dd8d04d285de97579b12c7b2c99fcdf5a"
@@ -115,7 +115,7 @@
       "id": "IMG-L-013",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/New Images/04_Sphere_Learning_2560x1440.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "afa575ab262e729ac08c49dea40f41a68a45bd103399f087cf1296c35ada86aa"
@@ -124,7 +124,7 @@
       "id": "IMG-L-014",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/New Images/05_Cylinder_Learning_2560x1440.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "0a33a6d8ffd46ce413e8abe734a157d2f802d3a37d2f2e97cadfaf19386a6814"
@@ -133,7 +133,7 @@
       "id": "IMG-L-015",
       "titleArabic": "هوية التطبيق وأغلفته",
       "source": "images.zip :: images/New Images/06_GeometryVRLab_1254x1254.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "118e462fc5188e9e621eb4ed5fb9989a83b4a9ef9b27bfd8044030ed48dd7a2e"
@@ -142,7 +142,7 @@
       "id": "IMG-L-016",
       "titleArabic": "هوية التطبيق وأغلفته",
       "source": "images.zip :: images/New Images/07_GeometryVRLab_1050x1498.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "a30dba52136f43992616fe894ef43d68d406e15df0c7cec59613b4b32eb07407"
@@ -151,7 +151,7 @@
       "id": "IMG-L-017",
       "titleArabic": "هوية التطبيق وأغلفته",
       "source": "images.zip :: images/New Images/08_GeometryVRLab_1254x1254.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "118e462fc5188e9e621eb4ed5fb9989a83b4a9ef9b27bfd8044030ed48dd7a2e"
@@ -160,7 +160,7 @@
       "id": "IMG-L-018",
       "titleArabic": "هوية التطبيق وأغلفته",
       "source": "images.zip :: images/New Images/GeometryVRLab_Cover_Portrait_1008x1440.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "8b9390dc58ed44ee49a5c7c2aec79ee50394dbe6a0b12a835a89980456bc96ba"
@@ -169,7 +169,7 @@
       "id": "IMG-L-019",
       "titleArabic": "هوية التطبيق وأغلفته",
       "source": "images.zip :: images/New Images/GeometryVRLab_Cover_Square_1440x1440.png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "f64595addba38349929033905d062c1b142671d7349375e97f49ab82a94d8dbf"
@@ -178,7 +178,7 @@
       "id": "IMG-L-020",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 22.08.50.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "b230a3c269ae22722d126c39259fbae95b3bbe85bea82d363edfc9909da68541"
@@ -187,7 +187,7 @@
       "id": "IMG-L-021",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 22.09.24.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "dd1a47967b709f9d166a586b8d9bc4ced97abbc262bb0561a252be79e0e4f865"
@@ -196,7 +196,7 @@
       "id": "IMG-L-022",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 22.09.37.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "a19436d9cb6057e9144c1e8dce790a9a47c577a66cedd8e40c677741622b70b4"
@@ -205,7 +205,7 @@
       "id": "IMG-L-023",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 22.10.11.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "a19436d9cb6057e9144c1e8dce790a9a47c577a66cedd8e40c677741622b70b4"
@@ -214,7 +214,7 @@
       "id": "IMG-L-024",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 22.10.24.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "0dcdcd196308b3eb4276d1092c1192ff1e1a2d2c82dfdda3aa13e205a120108d"
@@ -223,7 +223,7 @@
       "id": "IMG-L-025",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 22.10.37.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "c97fb5c95edb26cbe2c676f059944f2b09af1de3015510bd49b1b4ce3efc0c2b"
@@ -232,7 +232,7 @@
       "id": "IMG-L-026",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 22.10.47.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "d529131497d1cf169692d97a944b5053a12d706f1fccc19680fce22793b28a87"
@@ -241,7 +241,7 @@
       "id": "IMG-L-027",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.55.23.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "61456fd5fe6427a031298197fb599db5627adc3c37dbeb0370d2683bfd738d5b"
@@ -250,7 +250,7 @@
       "id": "IMG-L-028",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.55.38.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "479a5f9cbb617543ae04d56951573078a06cc48125b42f270ad3f2cbf05c3513"
@@ -259,7 +259,7 @@
       "id": "IMG-L-029",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.55.50.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "4c2177353d60c934c03518d20e2f118a57f6b5a3e8bdbaba41cf631ebe244cba"
@@ -268,7 +268,7 @@
       "id": "IMG-L-030",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.56.11.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "cdae4cc21cf2fd55465aad3fe8382c5484923c8c17b904d41428dd6940cbd0ac"
@@ -277,7 +277,7 @@
       "id": "IMG-L-031",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.56.24.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "b8e5d3aa9978bcc9927feba0b59dd2c7f0c1b0670e778cec4abd6d8dd6019eba"
@@ -286,7 +286,7 @@
       "id": "IMG-L-032",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.56.38.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "b886ea404829dbc54bc07b3dacf3282601a97c8eb9ff602453d1de7c5c9eacf5"
@@ -295,7 +295,7 @@
       "id": "IMG-L-033",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.56.49.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "51f93b54d665a9fbab280d05b6632520c46bbfe2dcee5128affb57b30af1f8db"
@@ -304,7 +304,7 @@
       "id": "IMG-L-034",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.57.02.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "14b33f6021830ec48e372c555a0ab0e78fac987dbca5c4e5dc2e5aae5e639455"
@@ -313,7 +313,7 @@
       "id": "IMG-L-035",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.57.25.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "ab79e70edd878a98dcccaf95ee21da4f7cf701b05314818e244d38c396f5a76d"
@@ -322,7 +322,7 @@
       "id": "IMG-L-036",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.57.37.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "9917364a82f440e805c80042b272b981d0743273e8b66e9e09479e92d1d46853"
@@ -331,7 +331,7 @@
       "id": "IMG-L-037",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.57.50.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "f9e87da9b4224fc02fd4eecc5df6a288908efc8c2fe9f959e606e5c55fc2cf69"
@@ -340,7 +340,7 @@
       "id": "IMG-L-038",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.58.05.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "46b995a69bfd56deb6435b49fe5d709f3ba201c27fcbeb7db10e997ab4b2daf7"
@@ -349,7 +349,7 @@
       "id": "IMG-L-039",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.58.19.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "365f9073c6de4e2198e0d7c25d16f7c40d17efa16b2858a388475dc7b9de5fe6"
@@ -358,7 +358,7 @@
       "id": "IMG-L-040",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.58.36.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "660a12c2e371ac3b73f9a1e197674a71fc935c28cfd596858e29822eb1b6ebc3"
@@ -367,7 +367,7 @@
       "id": "IMG-L-041",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.58.47.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "995853623d47167eab62209ef1e7c447a9f69e5c0f189bd3b8d82cbdfe380431"
@@ -376,7 +376,7 @@
       "id": "IMG-L-042",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.59.05.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "84eac56491ea63be3fca26edcfb2cce22269c0fa90627c7f590b800a04f797fe"
@@ -385,7 +385,7 @@
       "id": "IMG-L-043",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.59.14.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "a9904f25ba5e64709651105dbd621fdac956a65b183b350b9863cb3f5f991332"
@@ -394,7 +394,7 @@
       "id": "IMG-L-044",
       "titleArabic": "التفاعل والإمساك بالمجسمات داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-23 at 23.59.24.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "01bf8059834af3b1e22a617ea7111ee75c0605ec19c15ed5f335ae4f26eb97fd"
@@ -403,7 +403,7 @@
       "id": "IMG-L-045",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.44.51.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "53191b1753d48b6db20dd6175c51a531ff05c68a6e2766d2f1aec9803695fb4b"
@@ -412,7 +412,7 @@
       "id": "IMG-L-046",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.45.05.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "53191b1753d48b6db20dd6175c51a531ff05c68a6e2766d2f1aec9803695fb4b"
@@ -421,7 +421,7 @@
       "id": "IMG-L-047",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.45.21.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "9df85ba75745431b677706f0367eccb08eca9ea7fd151e763fbaf160adae77ca"
@@ -430,7 +430,7 @@
       "id": "IMG-L-048",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.45.32.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "575d7a3090e30e44758eefd7ef00e043fec90d5af5865368bd1c99a14a2dcc2b"
@@ -439,7 +439,7 @@
       "id": "IMG-L-049",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.45.43.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "0290b897d7ae95b75c6ba66c0cdea4fe4e6851b4f038a17160095b93c7d0172d"
@@ -448,7 +448,7 @@
       "id": "IMG-L-050",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.45.54.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "cb153ee2014ae42b1c8628e7e78d79db3dded51669cbb3074664daffad638ee9"
@@ -457,7 +457,7 @@
       "id": "IMG-L-051",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.46.06.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "2d6e2ef72e552098b96abccc53a892070d86a9ae5546e62fc8a4cfb79d8e90c0"
@@ -466,7 +466,7 @@
       "id": "IMG-L-052",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.46.17.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "c44893ea2b1999d505a0315e873edfcf024f60f912b65fe19d71c5ea2c95d1c0"
@@ -475,7 +475,7 @@
       "id": "IMG-L-053",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.46.30.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "e3f03e36a55ea19ad8e50326fcf2681a5c8c8b859b8c7babae720af2c745ed5c"
@@ -484,7 +484,7 @@
       "id": "IMG-L-054",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.46.42.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "59a0b61864a0953b511f3ad2a9de4a0596515cba5c5e96e0a6e9f745211f0ef8"
@@ -493,7 +493,7 @@
       "id": "IMG-L-055",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.46.55.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "6137ab49315055aa4d0d3bcff79b630d489a05fb07107cbd9089036046545e12"
@@ -502,7 +502,7 @@
       "id": "IMG-L-056",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.47.09.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "a86cde87c4cfc82ed8df3e69837420d3dfbce2c2ec80328950586c743aa6d264"
@@ -511,7 +511,7 @@
       "id": "IMG-L-057",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.47.20.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "7ebc0bec72bf314916e35102c2421f6186210e8c1be5a492878eaa719939624c"
@@ -520,7 +520,7 @@
       "id": "IMG-L-058",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.47.33.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "311d2ad2b8bfc546c21546e8d5cb65f189b4ca7b1bb73fd53ca08dfe2fc034a3"
@@ -529,7 +529,7 @@
       "id": "IMG-L-059",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-24 at 11.48.20.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "53191b1753d48b6db20dd6175c51a531ff05c68a6e2766d2f1aec9803695fb4b"
@@ -538,7 +538,7 @@
       "id": "IMG-L-060",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 17.51.06.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "cb153ee2014ae42b1c8628e7e78d79db3dded51669cbb3074664daffad638ee9"
@@ -547,7 +547,7 @@
       "id": "IMG-L-061",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 17.51.09.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "c44893ea2b1999d505a0315e873edfcf024f60f912b65fe19d71c5ea2c95d1c0"
@@ -556,7 +556,7 @@
       "id": "IMG-L-062",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 17.51.10.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "90645c3076d4faffbfa74e466d203de24fac14170627c4613b5602357a2e36d8"
@@ -565,7 +565,7 @@
       "id": "IMG-L-063",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 17.51.11.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "1ec8113028ada268ea72369f7d7c07ce6afea142f6765a574915005d3395d3ef"
@@ -574,7 +574,7 @@
       "id": "IMG-L-064",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 17.51.12.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "1f21984c5af59c3e0bab7346c9ef044ef287c276b5febc314d00c7546707033e"
@@ -583,7 +583,7 @@
       "id": "IMG-L-065",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 17.51.13.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "a561778f2ffe1ad60403ad49382180459dcfbe81724bcbaf084a177da3548315"
@@ -592,7 +592,7 @@
       "id": "IMG-L-066",
       "titleArabic": "التهيئة والترحيب والتنقل",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 17.53.36.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "5ba8a31751e33f29dd9159316f4eded6feac1666132163e2aac141ce441fdeb7"
@@ -601,7 +601,7 @@
       "id": "IMG-L-067",
       "titleArabic": "التهيئة والترحيب والتنقل",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 17.53.50.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "707a21b525035e8f8abddd6c46a70f86645ae58de805bc4d9b3de0dbb3d57484"
@@ -610,7 +610,7 @@
       "id": "IMG-L-068",
       "titleArabic": "التهيئة والترحيب والتنقل",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 17.54.01.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "3ce5766c330ed47772a30938fa1a3dacfaedeb34eb1c3091fdb666101b0707a8"
@@ -619,7 +619,7 @@
       "id": "IMG-L-069",
       "titleArabic": "التهيئة والترحيب والتنقل",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 17.56.49.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "d9259d2643a4ebec17e3959c75fa2e992dced9866bd75b92205a4fbc1b5420e4"
@@ -628,7 +628,7 @@
       "id": "IMG-L-070",
       "titleArabic": "التهيئة والترحيب والتنقل",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 17.57.00.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "01e2f693a673a95ef6739bc38d0818f8607e5fdfdfdd0a11c5ce5ddfb49a2fd3"
@@ -637,7 +637,7 @@
       "id": "IMG-L-071",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 18.01.21.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "96d8291a2470ac41a68c3bb2e0857aa9a69339275ccdd25da2ea8f8ed34b3bd3"
@@ -646,7 +646,7 @@
       "id": "IMG-L-072",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-26 at 18.01.36.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "b5bbd789fd3fa4b57ee8cd3160cf9eec9542d6faf8b6de5c4808689473db4ff2"
@@ -655,7 +655,7 @@
       "id": "IMG-L-073",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-28 at 13.54.03.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "c120bd00446480fe831493ac5546c59c5cea9b6aacde935ef3463185d26eb5f5"
@@ -664,7 +664,7 @@
       "id": "IMG-L-074",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-28 at 14.00.11.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "2bc137aa9ad4c45d01a0d348360747a919cd9e1d4a4580560229dc9311422757"
@@ -673,7 +673,7 @@
       "id": "IMG-L-075",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-28 at 14.00.24.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "c777a7115c081227b1525be1813962d1837f64161622fa3f8b55e6cc0b5459f5"
@@ -682,7 +682,7 @@
       "id": "IMG-L-076",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-28 at 14.15.48.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "d0b9d984b22a7a35377b1d51a010bb840a26a51f9e121784bb7a4420fe5e3fb5"
@@ -691,7 +691,7 @@
       "id": "IMG-L-077",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-28 at 14.15.50.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "61d5f1ed709c796e515ab98c73a988e5a58d5f4d373bc94151f67d6764d272f2"
@@ -700,7 +700,7 @@
       "id": "IMG-L-078",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-28 at 14.16.01.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "80544b2c29ea2f19daaa80cd10f5aa2f32f6d2254f9381ac94db64ec20ff793f"
@@ -709,7 +709,7 @@
       "id": "IMG-L-079",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-28 at 14.16.17.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "ebe51c7cafacf14ca8a4c5ace7b05e789be4250dad768e29a0fad6d5a864fb48"
@@ -718,7 +718,7 @@
       "id": "IMG-L-080",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-07-28 at 14.16.30.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "787e3695614313b811d55b7761d95eae1374444351fe216e15412a1d9e3695a0"
@@ -727,7 +727,7 @@
       "id": "IMG-L-081",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-02 at 14.12.16.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "a577125c178bf4a55fe6adb49d7dac64b49b0b97e0d990dad595ca6569bd243e"
@@ -736,7 +736,7 @@
       "id": "IMG-L-082",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-02 at 14.12.26.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "c88bf022d6e91f1e0ec61d5c8d2e30e580b8a546af2fb78f3c7961ec81622d86"
@@ -745,7 +745,7 @@
       "id": "IMG-L-083",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-02 at 14.12.37.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "fad5b919014a05cd19b5b79920b8f4de1e615712f5aaf8d9d36d5b6f9931a10f"
@@ -754,7 +754,7 @@
       "id": "IMG-L-084",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-02 at 14.12.47.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "041df5049b183dd7747d856400a1b904d2e0abe4c30aff6f4a537687a4231b1e"
@@ -763,7 +763,7 @@
       "id": "IMG-L-085",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-02 at 14.32.13.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "b5f449aa3d80cdcf37a981e194f473b05dc2234cc682c6a957761b260770dc90"
@@ -772,7 +772,7 @@
       "id": "IMG-L-086",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-02 at 14.32.26.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "3d368e2917db26b93bc6234414470d57bbd02f21885a18edf5d240fa455d722d"
@@ -781,7 +781,7 @@
       "id": "IMG-L-087",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-02 at 14.33.47.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "71cd40fd3798e7b9016b348278a94cd6097a764c62e19639117d4ffdef90d019"
@@ -790,7 +790,7 @@
       "id": "IMG-L-088",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-02 at 14.34.02.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "079a71ec0b8ee5915e198fefd0936e39be30e85dd862f5140ad324f7cc154951"
@@ -799,7 +799,7 @@
       "id": "IMG-L-089",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-02 at 14.34.23.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "1078b080e575dc05af7ab60100d91d4f8d8ec69ccb8060c2dfefcbc505cf97e3"
@@ -808,7 +808,7 @@
       "id": "IMG-L-090",
       "titleArabic": "التهيئة والترحيب والتنقل",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.35.44.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "7b5c89665d63bfe341808a49d4bdbf5a0891ff16e30842811b6e36c2f30f3732"
@@ -817,7 +817,7 @@
       "id": "IMG-L-091",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.35.58.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "e14652a2ad756622639a40b687effceef0ffc26df6d8c9b7a3e16add01e9d357"
@@ -826,7 +826,7 @@
       "id": "IMG-L-092",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.36.14.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "38d19faf91990cc47da2c39207db52c8eec506d15c789c094aea27a250cadc5a"
@@ -835,7 +835,7 @@
       "id": "IMG-L-093",
       "titleArabic": "التهيئة والترحيب والتنقل",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.37.09.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "b8036b461e725610854c9eb939fe4093e0ca7015d6f4e4bc8ace53eecca4b595"
@@ -844,7 +844,7 @@
       "id": "IMG-L-094",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.37.49.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "8f5b12cfa51dd85b8c6aabfb05f5a5b1b3744150960596ad72cc92751a12bb74"
@@ -853,7 +853,7 @@
       "id": "IMG-L-095",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.38.12.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "c16cd0285d3a61093a8ba91fa81c7a0d4a4a5c7f8f2b73a95ea4c82073540676"
@@ -862,7 +862,7 @@
       "id": "IMG-L-096",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.38.22.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "c16cd0285d3a61093a8ba91fa81c7a0d4a4a5c7f8f2b73a95ea4c82073540676"
@@ -871,7 +871,7 @@
       "id": "IMG-L-097",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.38.38.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "dcb1c58adc880749a91fd2be4713704b813175360735774369e9c17f3e9e4630"
@@ -880,7 +880,7 @@
       "id": "IMG-L-098",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.38.52.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "76cd8e3c1074dc3f08084e55b3015a71eee94db1128055a002c1ed4f41e4e53c"
@@ -889,7 +889,7 @@
       "id": "IMG-L-099",
       "titleArabic": "مختبر المجسمات وخصائصها",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.39.02.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "183b9337aa06cb59327ec2e0d21f92551fcf10a442c01ac6bb615cfa7788235a"
@@ -898,7 +898,7 @@
       "id": "IMG-L-100",
       "titleArabic": "التهيئة والترحيب والتنقل",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.39.12.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "2c9cd3abbe4bcfa0be2f9387e15f1b8cdb83e0f836df2753e0c63b1744ba98dc"
@@ -907,7 +907,7 @@
       "id": "IMG-L-101",
       "titleArabic": "منصات النشر ولوحة المطور",
       "source": "images.zip :: images/WhatsApp Image 2026-08-03 at 00.44.21.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "032612a763add6fb39f7e3e13d5e8e7596698dcb4a148332823f4ba6f693c7d5"
@@ -916,7 +916,7 @@
       "id": "IMG-L-102",
       "titleArabic": "منصات النشر ولوحة المطور",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.20.35.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "41972adf8e5a6a2949f04f47d90e801062f8acb99ecb00f7a9baad253cd5ac64"
@@ -925,7 +925,7 @@
       "id": "IMG-L-103",
       "titleArabic": "منصات النشر ولوحة المطور",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.20.48.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "608fea74fd0d9c2df2f639406d42f68f65fd109e838d25ed16ff484e8a0d815e"
@@ -934,7 +934,7 @@
       "id": "IMG-L-104",
       "titleArabic": "منصات النشر ولوحة المطور",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.20.58.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "350ace7dcde0470c909899b470f118ce788e81007918eab4430ee050b5062dcc"
@@ -943,7 +943,7 @@
       "id": "IMG-L-105",
       "titleArabic": "منصات النشر ولوحة المطور",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.22.31.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "e5f524af8ed2f6305bb3710fdabce47ffe76af36c7072c8d3d4b3cb53b0f2824"
@@ -952,7 +952,7 @@
       "id": "IMG-L-106",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.36.04.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "a63a09f46986096ab6ca322f4cd92287e06d02bad33cba5d5b70f7f0c4859dda"
@@ -961,7 +961,7 @@
       "id": "IMG-L-107",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.36.16.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "d6546115c55710ca43b24ef538b528b85aabb0faaf6e179fb02e3d009e346e86"
@@ -970,7 +970,7 @@
       "id": "IMG-L-108",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.36.27.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "67a733842508788fc6ae86d787b2ea5ebae6006f93d94bd4b3343f0e3d5e4ac3"
@@ -979,7 +979,7 @@
       "id": "IMG-L-109",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.36.37.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "f429da60a9b7640cf20d61f8d3b69c22acadfbe85b95bd320c165b10d7d5f286"
@@ -988,7 +988,7 @@
       "id": "IMG-L-110",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.36.50.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "25523543641b16e18af8d0f0346bd9a0c74e1c00b75b576f378d6d2bf43591f3"
@@ -997,7 +997,7 @@
       "id": "IMG-L-111",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.37.01.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "a7435c94bb17a136bdba5b4da59091617029b089f282ce7f11cab2dbb9def18e"
@@ -1006,7 +1006,7 @@
       "id": "IMG-L-112",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.37.12.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "755b900d5fc3ccfae0b05f8f0ed704b401fc3aa68db1ce5c8e2381493b8bd62b"
@@ -1015,7 +1015,7 @@
       "id": "IMG-L-113",
       "titleArabic": "واجهات النظارة وإعداداتها",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.37.21.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "685b7467ab155eeeef4dc014d92bf85904d6acb193f2dc8c4c21df79129be374"
@@ -1024,7 +1024,7 @@
       "id": "IMG-L-114",
       "titleArabic": "التهيئة والترحيب والتنقل",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.37.40.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "a626c892cde89e86d88aa48df35bf6b079f32047da555c06e5024c4df8adb980"
@@ -1033,7 +1033,7 @@
       "id": "IMG-L-115",
       "titleArabic": "شاشات الفيديو التعليمية داخل المختبر",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.37.49.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مرشح للانتقاء مع توثيق المصدر والإصدار",
       "sha256": "a126721d62118058c3edfd4eb9ed2147b5ee40772a75ca9d5b5274560b36af31"
@@ -1042,7 +1042,7 @@
       "id": "IMG-L-116",
       "titleArabic": "منصات النشر ولوحة المطور",
       "source": "images_4.zip :: images_4/WhatsApp Image 2026-08-15 at 14.38.28.jpeg",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
       "status": "مراجعة بيانات الحساب والعناصر غير المرتبطة ثم اقتصاص/طمس عند الحاجة",
       "sha256": "7b9ca729e7e076b0b73500510c8e2718bc316bbd1d74989873f29cd165447638"
@@ -1395,7 +1395,7 @@
       "source": "images_7.zip :: images_7/1.jpeg",
       "type": "لقطة نشر/إتاحة من واجهة Meta",
       "fileExists": true,
-      "status": "دليل تاريخي؛ يلزم صورة حديثة ورابط منشور لتوثيق الوضع الحالي",
+      "status": "دليل تاريخي، يلزم صورة حديثة ورابط منشور لتوثيق الوضع الحالي",
       "sha256": "3a7d3be85d3f087a7dec399bd121d5a4adcaabf6eee90c1c20ccddb8237f1cee"
     },
     {
@@ -1404,7 +1404,7 @@
       "source": "images_7.zip :: images_7/2.jpeg",
       "type": "لقطة نشر/إتاحة من واجهة Meta",
       "fileExists": true,
-      "status": "دليل تاريخي؛ يلزم صورة حديثة ورابط منشور لتوثيق الوضع الحالي",
+      "status": "دليل تاريخي، يلزم صورة حديثة ورابط منشور لتوثيق الوضع الحالي",
       "sha256": "0e7c22d9e7e00bbae70913e54fbae56e008f483a660a68394346db9708635287"
     },
     {
@@ -1413,7 +1413,7 @@
       "source": "images_7.zip :: images_7/3.jpeg",
       "type": "لقطة نشر/إتاحة من واجهة Meta",
       "fileExists": true,
-      "status": "دليل تاريخي؛ يلزم صورة حديثة ورابط منشور لتوثيق الوضع الحالي",
+      "status": "دليل تاريخي، يلزم صورة حديثة ورابط منشور لتوثيق الوضع الحالي",
       "sha256": "0e7c22d9e7e00bbae70913e54fbae56e008f483a660a68394346db9708635287"
     },
     {
@@ -1422,7 +1422,7 @@
       "source": "images_7.zip :: images_7/4.jpeg",
       "type": "لقطة نشر/إتاحة من واجهة Meta",
       "fileExists": true,
-      "status": "دليل تاريخي؛ يلزم صورة حديثة ورابط منشور لتوثيق الوضع الحالي",
+      "status": "دليل تاريخي، يلزم صورة حديثة ورابط منشور لتوثيق الوضع الحالي",
       "sha256": "a1614a4cd70d8924bb353c76e23d773d7e10193e81c56b67c792a28e1e45a941"
     },
     {
@@ -1431,7 +1431,7 @@
       "source": "images_7.zip :: images_7/5.jpeg",
       "type": "لقطة نشر/إتاحة من واجهة Meta",
       "fileExists": true,
-      "status": "دليل تاريخي؛ يلزم صورة حديثة ورابط منشور لتوثيق الوضع الحالي",
+      "status": "دليل تاريخي، يلزم صورة حديثة ورابط منشور لتوثيق الوضع الحالي",
       "sha256": "d6b2225fa383813cea38c6d60a6c0c5e25b72295bd2e80fd034a11de34704d6c"
     },
     {
@@ -1440,7 +1440,7 @@
       "source": "بحث_تطوير_بيئة_الواقع_الافتراضي_للهندسة_الفراغية_2026_محدث_بالإرشاد_الصوتي (1).docx :: word/media/image1.png",
       "type": "دليل بصري مضمّن في البحث",
       "fileExists": true,
-      "status": "حفظ النسخة التاريخية؛ اقتصاص بيانات النظام والجهاز غير اللازمة عند العرض",
+      "status": "حفظ النسخة التاريخية، اقتصاص بيانات النظام والجهاز غير اللازمة عند العرض",
       "sha256": "bd4c088ed90c3db7cda247ff4b0594fca55743cfc5f665e7e1d210e738d66f7f"
     },
     {
@@ -1449,7 +1449,7 @@
       "source": "بحث_تطوير_بيئة_الواقع_الافتراضي_للهندسة_الفراغية_2026_محدث_بالإرشاد_الصوتي (1).docx :: word/media/image2.png",
       "type": "دليل بصري مضمّن في البحث",
       "fileExists": true,
-      "status": "حفظ النسخة التاريخية؛ اقتصاص بيانات النظام والجهاز غير اللازمة عند العرض",
+      "status": "حفظ النسخة التاريخية، اقتصاص بيانات النظام والجهاز غير اللازمة عند العرض",
       "sha256": "45e50c9b6034a2f16c6af1975e8ffd0bdc09f456b7e59ec5e05e9203e359ba72"
     },
     {
@@ -1458,7 +1458,7 @@
       "source": "بحث_تطوير_بيئة_الواقع_الافتراضي_للهندسة_الفراغية_2026_محدث_بالإرشاد_الصوتي (1).docx :: word/media/image3.jpeg",
       "type": "دليل بصري مضمّن في البحث",
       "fileExists": true,
-      "status": "توثيق تاريخي؛ توثيق المصدر والإصدار قبل إعادة الاستخدام",
+      "status": "توثيق تاريخي، توثيق المصدر والإصدار قبل إعادة الاستخدام",
       "sha256": "d0b9d984b22a7a35377b1d51a010bb840a26a51f9e121784bb7a4420fe5e3fb5"
     },
     {
@@ -1467,7 +1467,7 @@
       "source": "بحث_تطوير_بيئة_الواقع_الافتراضي_للهندسة_الفراغية_2026_محدث_بالإرشاد_الصوتي (1).docx :: word/media/image4.jpeg",
       "type": "دليل بصري مضمّن في البحث",
       "fileExists": true,
-      "status": "توثيق تاريخي؛ توثيق المصدر والإصدار قبل إعادة الاستخدام",
+      "status": "توثيق تاريخي، توثيق المصدر والإصدار قبل إعادة الاستخدام",
       "sha256": "61d5f1ed709c796e515ab98c73a988e5a58d5f4d373bc94151f67d6764d272f2"
     },
     {
@@ -1476,7 +1476,7 @@
       "source": "بحث_تطوير_بيئة_الواقع_الافتراضي_للهندسة_الفراغية_2026_محدث_بالإرشاد_الصوتي (1).docx :: word/media/image5.jpeg",
       "type": "دليل بصري مضمّن في البحث",
       "fileExists": true,
-      "status": "توثيق تاريخي؛ توثيق المصدر والإصدار قبل إعادة الاستخدام",
+      "status": "توثيق تاريخي، توثيق المصدر والإصدار قبل إعادة الاستخدام",
       "sha256": "80544b2c29ea2f19daaa80cd10f5aa2f32f6d2254f9381ac94db64ec20ff793f"
     },
     {
@@ -1485,7 +1485,7 @@
       "source": "بحث_تطوير_بيئة_الواقع_الافتراضي_للهندسة_الفراغية_2026_محدث_بالإرشاد_الصوتي (1).docx :: word/media/image6.jpeg",
       "type": "دليل بصري مضمّن في البحث",
       "fileExists": true,
-      "status": "توثيق تاريخي؛ توثيق المصدر والإصدار قبل إعادة الاستخدام",
+      "status": "توثيق تاريخي، توثيق المصدر والإصدار قبل إعادة الاستخدام",
       "sha256": "787e3695614313b811d55b7761d95eae1374444351fe216e15412a1d9e3695a0"
     },
     {
@@ -1494,7 +1494,7 @@
       "source": "بحث_تطوير_بيئة_الواقع_الافتراضي_للهندسة_الفراغية_2026_محدث_بالإرشاد_الصوتي (1).docx :: word/media/image7.png",
       "type": "دليل بصري مضمّن في البحث",
       "fileExists": true,
-      "status": "توثيق تاريخي؛ توثيق المصدر والإصدار قبل إعادة الاستخدام",
+      "status": "توثيق تاريخي، توثيق المصدر والإصدار قبل إعادة الاستخدام",
       "sha256": "b7e1b5e4ca52b30377649a686605ebd55386cc4c40ff236d1c0a055031665340"
     },
     {
@@ -1503,7 +1503,7 @@
       "source": "بحث_تطوير_بيئة_الواقع_الافتراضي_للهندسة_الفراغية_2026_محدث_بالإرشاد_الصوتي (1).docx :: word/media/image8.png",
       "type": "دليل بصري مضمّن في البحث",
       "fileExists": true,
-      "status": "توثيق تاريخي؛ توثيق المصدر والإصدار قبل إعادة الاستخدام",
+      "status": "توثيق تاريخي، توثيق المصدر والإصدار قبل إعادة الاستخدام",
       "sha256": "9c974622debe6717906e6375ea55dbbae90a2a2b532b94515b64f1d3ec868e38"
     },
     {
@@ -1512,16 +1512,16 @@
       "source": "بحث_تطوير_بيئة_الواقع_الافتراضي_للهندسة_الفراغية_2026_محدث_بالإرشاد_الصوتي (1).docx :: word/media/image9.png",
       "type": "دليل بصري مضمّن في البحث",
       "fileExists": true,
-      "status": "توثيق تاريخي؛ توثيق المصدر والإصدار قبل إعادة الاستخدام",
+      "status": "توثيق تاريخي، توثيق المصدر والإصدار قبل إعادة الاستخدام",
       "sha256": "feb0b52b9557cb57f2a73f6f6524360f9b8e04edde2bc21ebf3bc6afba6338f8"
     },
     {
       "id": "IMG-U-001",
       "titleArabic": "لقطة صفحة مستودع Unity الخاص وملفات التوثيق",
       "source": "مرفق مباشر :: image(20261003-234809).png",
-      "type": "لقطة/مادة بصرية؛ النوع في الوصف",
+      "type": "لقطة/مادة بصرية، النوع في الوصف",
       "fileExists": true,
-      "status": "اقتصاص واجهة المتصفح والحساب قبل استخدام لقطة مناسبة؛ لا تعد دليلًا على اجتياز الاختبارات",
+      "status": "اقتصاص واجهة المتصفح والحساب قبل استخدام لقطة مناسبة، لا تعد دليلًا على اجتياز الاختبارات",
       "sha256": "73894d7c36d29ad24a37b2c82b4bf3e514941038419e2250bb857960f46dd901"
     }
   ],
@@ -1532,7 +1532,7 @@
       "source": "01_Onboarding_Practice(1).mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "0ea1324a496346c9ca2c3dee13d6c666fca359d0a07870a85c4def9c1c61638d"
     },
     {
@@ -1541,7 +1541,7 @@
       "source": "02_3D_Solids_Lab(1).mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "6ca8980aeb493ee05036caf358be1299b4f95fe81a5112e134e98411dd9885ff"
     },
     {
@@ -1550,7 +1550,7 @@
       "source": "03_Tribute_Panel(1).mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "c9572e9d55e0a420b6f5c438247a6acf5d3ae0c921657e9788b0755de94fe4e9"
     },
     {
@@ -1559,7 +1559,7 @@
       "source": "04_Geometric_Transformations(1).mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "b9815cb380e7d334cea8874d48b7e7d323f12fcdb60ae5ada932602d81420994"
     },
     {
@@ -1568,7 +1568,7 @@
       "source": "05_Transformation_Challenges(1).mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "c4ae3f363c16ae28627caa99a3512d1f9feb717570e31fc83c975e8dec578c5c"
     },
     {
@@ -1577,7 +1577,7 @@
       "source": "06_Cross_Sections_Experiment(1).mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "98e4e1beab1a1d5df6fac4070503c5efcac5852be1e8983d8f11ef5ca265e33c"
     },
     {
@@ -1586,7 +1586,7 @@
       "source": "07_Cross_Sections_Learning_Center(1).mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "47516628a6259c730739845b0748cb8760c91826006901f2061d965d4c60bb52"
     },
     {
@@ -1595,7 +1595,7 @@
       "source": "images.zip :: images/WhatsApp Video 2026-08-02 at 14.12.07.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "951b5990f3bc0ee3b8a2bb9facb7bb69612ce878bbe0e82a03633c634bc26858"
     },
     {
@@ -1604,7 +1604,7 @@
       "source": "images.zip :: images/WhatsApp Video 2026-08-02 at 14.34.11.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "3ad5792dcb9c0d9f98c1b3264255f91d3fe4e2c58f602a62f773a77e9ccff806"
     },
     {
@@ -1613,7 +1613,7 @@
       "source": "images.zip :: images/WhatsApp Video 2026-08-02 at 15.11.23.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "01ebfd84e6476cc5ab37ff6a48d8b24e69b963e3136b64ba627dba732a43c66b"
     },
     {
@@ -1622,7 +1622,7 @@
       "source": "images.zip :: images/WhatsApp Video 2026-08-02 at 15.11.56.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "3b1ed9bbc500900f67deedf3d95107e6b4d1b91d6df207fcb61e3da38b4f4586"
     },
     {
@@ -1631,7 +1631,7 @@
       "source": "images.zip :: images/WhatsApp Video 2026-08-02 at 15.12.22.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "602cee4ee5b49b1277065c5e523a2a2af491ac561ec61430ce1a1e4d64136bb7"
     },
     {
@@ -1640,7 +1640,7 @@
       "source": "images.zip :: images/WhatsApp Video 2026-08-02 at 15.51.05.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "6fc3e91261f28426eee6d2337cb09e580a4a1a748cf9b53f035317d2df3fc2b6"
     },
     {
@@ -1649,7 +1649,7 @@
       "source": "images.zip :: images/WhatsApp Video 2026-08-03 at 00.36.42.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "db5fd8a6b9e89bc04c3c118cf5d6c568c3083b70cf15e202c3d154c40ca227dc"
     },
     {
@@ -1658,7 +1658,7 @@
       "source": "images.zip :: images/WhatsApp Video 2026-08-03 at 00.39.34.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "479f7b05291d07c0f6af877e7ee13614d05169869dcc464a842c82fcf9edc832"
     },
     {
@@ -1667,7 +1667,7 @@
       "source": "images_4.zip :: images_4/Geometry VR Lab Video Version 6.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "f40f2d88df949382d113f46afa884a7d1743644a486cb52691f016cb2eadc58e"
     },
     {
@@ -1676,7 +1676,7 @@
       "source": "images_4.zip :: images_4/Geometry VR Lab Video.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "5dd10a8aabaa156336aec099593763afc008f90852ff9876b848843e2aff9d95"
     },
     {
@@ -1685,7 +1685,7 @@
       "source": "images_4.zip :: images_4/WhatsApp Video 2026-08-15 at 14.22.10.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "e3a1435aa379c44e7a7a6a19df3ad16144e7492eb18acac8c3c49eafbd00538f"
     },
     {
@@ -1694,7 +1694,7 @@
       "source": "images_4.zip :: images_4/WhatsApp Video 2026-08-15 at 14.22.31.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "12da7675ce73cf2009a8a6474dba0d15c88620d870996c43282f1702772004be"
     },
     {
@@ -1703,7 +1703,7 @@
       "source": "images_4.zip :: images_4/WhatsApp Video 2026-08-15 at 14.37.33.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "2bbe8ba1ac7b760e0895f5200cadb0ba2247abb378b87577a76927d1cd356c8c"
     },
     {
@@ -1712,7 +1712,7 @@
       "source": "images_4.zip :: images_4/WhatsApp Video 2026-08-15 at 14.38.28.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "549ada04c8ff580e929fc35a4dfb620461484ac6aafea13ac2204da973cefca7"
     },
     {
@@ -1721,7 +1721,7 @@
       "source": "images_4.zip :: images_4/WhatsApp Video 2026-08-15 at 14.38.59.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "نسخة مطابقة للمادة AVID-11. تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "نسخة مطابقة للمادة AVID-11. تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "e3a1435aa379c44e7a7a6a19df3ad16144e7492eb18acac8c3c49eafbd00538f"
     },
     {
@@ -1730,7 +1730,7 @@
       "source": "images_4.zip :: images_4/WhatsApp Video 2026-08-15 at 15.44.31.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "ba16d509a047deefe74a16966c43bf7886f301c375135a19f9100f609bb05118"
     },
     {
@@ -1739,7 +1739,7 @@
       "source": "images_4.zip :: images_4/WhatsApp Video 2026-08-15 at 15.45.05.mp4",
       "type": "فيديو",
       "fileExists": true,
-      "status": "تسجيل توثيقي؛ تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت؛ لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
+      "status": "تسجيل توثيقي، تاريخ الالتقاط والإصدار يحتاجان إلى التثبيت، لا يثبت مراجعة الصوت أو اكتمال اختبار التطبيق.",
       "sha256": "5656eb18480f39a2da1984b6c8ebfeaffeba89e65b2b9b618878b9fcbebf6b16"
     }
   ],
@@ -2071,7 +2071,7 @@
       "source": "صفحة تعريف التطبيق",
       "type": "مرجع التطبيق الحالي",
       "fileExists": false,
-      "status": "مرجع مرتبط؛ ليس مرفقًا محليًا"
+      "status": "مرجع مرتبط، ليس مرفقًا محليًا"
     },
     {
       "id": "FILE-017",
@@ -2079,7 +2079,7 @@
       "source": "مستودع التطبيق Unity",
       "type": "مرجع شفرة خاص",
       "fileExists": false,
-      "status": "مرجع مرتبط؛ ليس مرفقًا محليًا"
+      "status": "مرجع مرتبط، ليس مرفقًا محليًا"
     },
     {
       "id": "FILE-018",
@@ -2087,7 +2087,7 @@
       "source": "FOUNDATIONS_IMPLEMENTATION.md",
       "type": "توثيق تنفيذ خاص",
       "fileExists": false,
-      "status": "مرجع مرتبط؛ ليس مرفقًا محليًا"
+      "status": "مرجع مرتبط، ليس مرفقًا محليًا"
     },
     {
       "id": "FILE-019",
@@ -2095,7 +2095,7 @@
       "source": "FOUNDATIONS_VOICEOVER.md",
       "type": "توثيق صوت خاص",
       "fileExists": false,
-      "status": "مرجع مرتبط؛ ليس مرفقًا محليًا"
+      "status": "مرجع مرتبط، ليس مرفقًا محليًا"
     },
     {
       "id": "FILE-020",
@@ -2103,7 +2103,7 @@
       "source": "foundations_voiceover_manifest.json",
       "type": "سجل صوت في مستودع خاص",
       "fileExists": false,
-      "status": "مرجع مرتبط؛ ليس مرفقًا محليًا"
+      "status": "مرجع مرتبط، ليس مرفقًا محليًا"
     },
     {
       "id": "FILE-021",
