@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "للاستشهاد بالموقع البحثي استخدم البيانات التالية، وأضف رابط القسم وتاريخ الاطلاع عند الحاجة."
+type: software
+title: "تصميم وتطوير مختبر الهندسة بالواقع الافتراضي — الموقع البحثي"
+authors:
+  - family-names: "زاهدة"
+    given-names: "زهدي"
+version: 0.1.0
+date-released: 2026-10-04
+url: "https://zuhdizahdeh.github.io/geometry-vr-lab-research/"
+repository-code: "https://github.com/ZuhdiZahdeh/geometry-vr-lab-research"
+abstract: "موقع بحثي إلكتروني يوثق دراسة تصميم وتطوير مختبر الهندسة بالواقع الافتراضي، ويحفظ النسخة المصدرية المؤرخة في يوليو 2026 مع توثيق التطوير اللاحق."
+keywords:
+  - "الواقع الافتراضي"
+  - "الهندسة الفراغية"
+  - "تعليم الرياضيات"
+  - "تصميم وتطوير"
