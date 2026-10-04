@@ -31,6 +31,11 @@ def safe_url(value: str) -> str | None:
     return value if urlparse(value).scheme.lower() in {"http", "https"} else None
 
 
+def website_text(value: str) -> str:
+    """Apply the website's requested Arabic punctuation style to prose."""
+    return value.replace("\u061b", "\u060c")
+
+
 def text_node(node) -> str:
     result = []
     for child in node.iter():
@@ -40,7 +45,7 @@ def text_node(node) -> str:
             result.append("\t")
         elif child.tag in {qn("w:br"), qn("w:cr")}:
             result.append("\n")
-    return "".join(result)
+    return website_text("".join(result))
 
 
 def link_plain_urls(text: str) -> str:
@@ -182,7 +187,7 @@ def extract(source: Path, inventory: Path, destination: Path) -> dict:
             paragraph = doc.paragraphs[pi]
             pi += 1
             source_block = source_blocks[locator]
-            text = paragraph.text
+            text = website_text(paragraph.text)
             path = source_block["target"].split("#")[0]
             if path not in pages:
                 title, kind = page_metadata(path, original["map"])
@@ -227,7 +232,7 @@ def extract(source: Path, inventory: Path, destination: Path) -> dict:
                 pages[path] = {"path": path, "title": title, "kind": kind, "notice": NOTICE, "source_date": "2026-07-29", "blocks": []}
             page = pages[path]
             meta = tables[locator]
-            rows = [[cell.text for cell in row.cells] for row in table.rows]
+            rows = [[website_text(cell.text) for cell in row.cells] for row in table.rows]
             rows_html = [["<br>".join(paragraph_html(p._p, doc.part.rels) for p in cell.paragraphs) for cell in row.cells] for row in table.rows]
             block = {"type": "table", "source": locator, "id": "table-" + locator.lower(), "role": meta["role"], "caption": meta["caption"], "rows": rows, "rows_html": rows_html, "source_target": meta["target"]}
             block["presentation"] = "callout" if locator in {"T002", "T004", "T006", "T010", "T017"} else "contents" if locator == "T003" else "image-layout" if locator == "T022" else "table"
@@ -266,7 +271,7 @@ def extract(source: Path, inventory: Path, destination: Path) -> dict:
         "tables_preserved": len(emitted_tables), "image_placements_preserved": len(emitted_images),
         "references_preserved": len(references), "page_count": len(pages),
         "coverage": {"nonempty_paragraph_ids": nonempty_paragraphs, "table_ids": emitted_tables, "image_ids": emitted_images, "empty_paragraph_ids": empty_paragraphs},
-        "method": "نقل حرفي من فقرات DOCX وجداوله وصوره في ترتيب المستند، مع حفظ التأكيد والروابط وبناء معرّفات HTML ثابتة؛ دون تحديث حالات الإنجاز الواردة في نسخة يوليو.",
+        "method": "نقل محتوى فقرات DOCX وجداوله وصوره في ترتيب المستند، مع حفظ التأكيد والروابط وبناء معرّفات HTML ثابتة، دون تحديث حالات الإنجاز الواردة في نسخة يوليو. استُبدلت الفاصلة المنقوطة العربية بالفاصلة العربية في نسخة الموقع وفق طلب الباحث.",
     }
     data = {"pages": list(pages.values()), "summary": summary}
     content = destination / "content"

@@ -113,10 +113,10 @@ def header(path):
     return f'<a class="skip-link" href="#main">انتقل إلى المحتوى</a><header class="site-header"><div class="container"><a class="brand" href="{rel(path,"index.html")}">{mark}<span>مختبر الهندسة بالواقع الافتراضي<small>البحث والتصميم والتوثيق التطبيقي</small></span></a><nav class="main-nav" aria-label="التنقل الرئيسي">{links}</nav></div></header>'
 
 def footer(path):
-    return '<footer class="site-footer"><div class="container"><div><p><strong>زهدي زاهدة · تصميم وتطوير مختبر الهندسة بالواقع الافتراضي</strong></p><p>الإصدار الإلكتروني 0.1.0 · 4 تشرين الأول/أكتوبر 2026</p><p>دراسة تصميم وتطوير؛ يتطلب قياس أثر التعلم دراسة ميدانية مستقلة.</p></div><div class="inline-links">' + link(path,'versions/index.html','سجل الإصدارات') + link(path,'citation/index.html','الاستشهاد والحقوق') + f'<a href="{REPO}">المستودع على GitHub</a><a href="{APP}">صفحة التطبيق</a>' + '</div></div></footer>'
+    return '<footer class="site-footer"><div class="container"><div><p><strong>زهدي زاهدة · تصميم وتطوير مختبر الهندسة بالواقع الافتراضي</strong></p><p>الإصدار الإلكتروني 0.1.0 · 4 تشرين الأول/أكتوبر 2026</p><p>دراسة تصميم وتطوير، يتطلب قياس أثر التعلم دراسة ميدانية مستقلة.</p></div><div class="inline-links">' + link(path,'versions/index.html','سجل الإصدارات') + link(path,'citation/index.html','الاستشهاد والحقوق') + f'<a href="{REPO}">المستودع على GitHub</a><a href="{APP}">صفحة التطبيق</a>' + '</div></div></footer>'
 
 def search(path):
-    return '<div class="search-box"><label for="site-search">ابحث في الفصول والملاحق</label><input id="site-search" type="search" placeholder="مثل: التصور الفراغي، الأسطوانة، الإرشاد الصوتي" autocomplete="off" aria-controls="search-results"><div id="search-results" class="search-results" aria-live="polite"></div><p class="search-hint">ابحث بكلمتين أو أكثر للوصول إلى القسم؛ تعمل الروابط دون الحاجة إلى البحث.</p></div>'
+    return '<div class="search-box"><label for="site-search">ابحث في الفصول والملاحق</label><input id="site-search" type="search" placeholder="مثل: التصور الفراغي، الأسطوانة، الإرشاد الصوتي" autocomplete="off" aria-controls="search-results"><div id="search-results" class="search-results" aria-live="polite"></div><p class="search-hint">ابحث بكلمتين أو أكثر للوصول إلى القسم، تعمل الروابط دون الحاجة إلى البحث.</p></div>'
 
 def document(path, title, content, toc=None, page=None, home=False):
     canonical = SITE + path.removesuffix('index.html')
@@ -192,7 +192,7 @@ def build_evidence(page):
     gallery=read_data('data/gallery.json',[])
     if isinstance(gallery,dict):gallery=gallery.get('items',gallery.get('images',[]))
     content=source_note(page)+source_blocks(page)
-    content+=section('evidence-scope','قراءة الدليل التطبيقي','<p>تعرض هذه الصفحة الوسائط المرفقة كما صنّفها سجل المواد. المقاطع واللقطات التالية توثق بنية التطبيق السابقة ومحتواه؛ لم تُرفق بعد لقطة أو تسجيل محدد الهوية للبناء المدمج الأحدث.</p><p>للمشهد المدمج راجع '+link(path,'appendices/appendix-j/index.html','الملحق (ي)')+'، وللتوثيق الداخلي لإصدار يوليو راجع '+link(path,'appendices/appendix-i/index.html','الملحق (ط)')+'.</p>')
+    content+=section('evidence-scope','قراءة الدليل التطبيقي','<p>تعرض هذه الصفحة الوسائط المرفقة كما صنّفها سجل المواد. المقاطع واللقطات التالية توثق بنية التطبيق السابقة ومحتواه، لم تُرفق بعد لقطة أو تسجيل محدد الهوية للبناء المدمج الأحدث.</p><p>للمشهد المدمج راجع '+link(path,'appendices/appendix-j/index.html','الملحق (ي)')+'، وللتوثيق الداخلي لإصدار يوليو راجع '+link(path,'appendices/appendix-i/index.html','الملحق (ط)')+'.</p>')
     gallery_html='<div class="evidence-grid">'
     for v in videos:
         vid=v.get('id','')
@@ -202,13 +202,13 @@ def build_evidence(page):
         if isinstance(duration,(int,float)):duration=f'{int(duration)//60}:{int(duration)%60:02d}'
         title=v.get('titleArabic',v.get('title_ar',v.get('title','')))
         gallery_html+=f'<article class="evidence-card" id="{vid.lower()}"><video controls preload="none" poster="{rel(path,poster)}" aria-label="{escape(title,quote=True)}"><source src="{rel(path,file)}" type="video/mp4">{link(path,file,"تحميل الفيديو")}</video><h3>{escape(title)}</h3><div class="meta"><span>{escape(vid)}</span><span>المدة: <bdi>{duration}</bdi></span><span class="status status--historical">توثيق سابق</span></div><p>المصدر: <bdi>{escape(v.get("sourceFilename",v.get("source_filename","")))}</bdi></p>{link(path,file,"فتح أو تنزيل الفيديو")}</article>'
-    gallery_html+='</div><p class="table-caption">المقاطع بصوتها الأصلي. ضُغط الفيديوهان 04 و05 للنشر مع الحفاظ على الدقة والمدة والصوت؛ يسجل ملف بيانات الفيديو بصمتي الأصل ونسخة النشر. لم يُنجز تفريغ نصي مكافئ أو مراجعة سمعية شاملة؛ يُضافان في تحديث لاحق.</p>'
+    gallery_html+='</div><p class="table-caption">المقاطع بصوتها الأصلي. ضُغط الفيديوهان 04 و05 للنشر مع الحفاظ على الدقة والمدة والصوت، يسجل ملف بيانات الفيديو بصمتي الأصل ونسخة النشر. لم يُنجز تفريغ نصي مكافئ أو مراجعة سمعية شاملة، يُضافان في تحديث لاحق.</p>'
     content+=section('videos','مقاطع توثيق التطبيق',gallery_html)
     photo='<div class="evidence-grid">'
     for g in gallery:
         title=g.get('titleArabic',g.get('title_ar',g.get('title','')))
         image=g.get('path',g.get('src',''))
-        photo+=f'<figure class="evidence-card" id="{g["id"].lower()}"><a href="{rel(path,image)}"><img src="{rel(path,image)}" alt="{escape(title,quote=True)}" loading="lazy"></a><figcaption><h3>{escape(title)}</h3><p>{escape(g.get("statusHistoricalCaption","لقطة من المواد المرفقة؛ لا تحدد وحدها هوية البناء الأحدث."))}</p><small>{escape(g["id"])}</small></figcaption></figure>'
+        photo+=f'<figure class="evidence-card" id="{g["id"].lower()}"><a href="{rel(path,image)}"><img src="{rel(path,image)}" alt="{escape(title,quote=True)}" loading="lazy"></a><figcaption><h3>{escape(title)}</h3><p>{escape(g.get("statusHistoricalCaption","لقطة من المواد المرفقة، لا تحدد وحدها هوية البناء الأحدث."))}</p><small>{escape(g["id"])}</small></figcaption></figure>'
     photo+='</div>'
     content+=section('images','لقطات منتقاة للمقاطع الناتجة عن القطع',photo)
     rows=[]
@@ -225,14 +225,14 @@ def build_evidence(page):
     for r in records:
         rows.append([escape(str(r.get('id',''))),escape(str(r.get('kind',r.get('type','')))),escape(str(r.get('title',r.get('titleArabic',r.get('title_ar',''))))),escape(str(r.get('sourceFilename',r.get('source_filename',r.get('source',''))))),escape(str(r.get('status',r.get('availability','مادة في سجل الجرد'))))])
     inv_controls='<div class="inventory-controls"><div><label for="inventory-search">تصفية سجل المواد</label><input id="inventory-search" type="search" placeholder="ابحث بالمعرف أو اسم الملف أو النوع"></div><p class="inventory-count" id="inventory-count"></p></div>'
-    content+=section('inventory','سجل المواد المرفقة',inv_controls+table(['المعرف','النوع','الوصف','المصدر','الحالة'],rows,caption='السجل يفهرس المواد؛ لا يعني الإدراج أن جميع الملفات نُشرت على الموقع.',id='inventory-table'))
+    content+=section('inventory','سجل المواد المرفقة',inv_controls+table(['المعرف','النوع','الوصف','المصدر','الحالة'],rows,caption='السجل يفهرس المواد، لا يعني الإدراج أن جميع الملفات نُشرت على الموقع.',id='inventory-table'))
     content+=section('pending','مواد التوثيق التي تحتاج إلى استكمال',table(['المادة','المطلوب لاستكمالها'],[[escape(x['material']),escape(x['needed'])] for x in qa.get('pending_evidence',[])]))
     toc=[('evidence-scope','نطاق الأدلة'),('videos','الفيديوهات'),('images','الصور'),('table-directory','الجداول'),('inventory','سجل المواد'),('pending','مواد الاستكمال')]
     document(path,'الوسائط والجداول وسجل المواد',content,toc,page)
 
 def build_downloads():
     path='downloads/index.html'
-    files=[('downloads/research-source-2026-07-29.docx','ملف البحث المرفق — نسخة 29 يوليو 2026 (Word)','نسخة المصدر المحدّثة بالإرشاد الصوتي؛ لم تُثبت مطابقتها لملف السمينار الأول.'),('downloads/research-map.docx','خريطة الفصول وخطة استكمال المواد (Word)','الخريطة التفصيلية وسجل نقاط الاستكمال.'),('downloads/research-inventory.xlsx','سجل المحتوى والوسائط (Excel)','الفصول والأقسام والصور والفيديوهات والجداول والملفات والمراجع والفجوات.'),('content/source.json','النقل المنظم للمحتوى (JSON)','437 فقرة غير فارغة و23 عنصر جدول وتسعة مواضع صور؛ محفوظة بمعرّفات المصدر.'),('data/inventory.json','سجل المواد المفتوح للقراءة (JSON)','بيانات وصفية لا تتضمن مسارات العمل المحلية.')]
+    files=[('downloads/research-source-2026-07-29.docx','ملف البحث المرفق — نسخة 29 يوليو 2026 (Word)','نسخة المصدر المحدّثة بالإرشاد الصوتي، لم تُثبت مطابقتها لملف السمينار الأول.'),('downloads/research-map.docx','خريطة الفصول وخطة استكمال المواد (Word)','الخريطة التفصيلية وسجل نقاط الاستكمال.'),('downloads/research-inventory.xlsx','سجل المحتوى والوسائط (Excel)','الفصول والأقسام والصور والفيديوهات والجداول والملفات والمراجع والفجوات.'),('content/source.json','النقل المنظم للمحتوى (JSON)','437 فقرة غير فارغة و23 عنصر جدول وتسعة مواضع صور، محفوظة بمعرّفات المصدر.'),('data/inventory.json','سجل المواد المفتوح للقراءة (JSON)','بيانات وصفية لا تتضمن مسارات العمل المحلية.')]
     html='<ul class="download-list">'+''.join('<li>'+link(path,f,label)+f'<small>{escape(desc)}</small></li>' for f,label,desc in files)+'</ul>'
     content=section('research-files','ملفات البحث والسجل',html)+section('implementation-docs','وثائق التطوير', '<ul class="download-list">'+''.join('<li>'+link(path,f,t)+'</li>' for f,t in [('docs/foundations-implementation.md','توثيق تنفيذ المرحلة المدمجة'),('docs/foundations-voiceover.md','توثيق نظام الإرشاد الصوتي'),('docs/foundations-voiceover-manifest.json','سجل ملفات الصوت وأحداثها')])+'</ul><p>هذه الوثائق تصف التنفيذ والربط. ملفات Unity وملفات الصوت الأصلية ليست ضمن حزمة هذا الموقع.</p>')
     document(path,'ملفات البحث والتنزيلات',content,[('research-files','ملفات البحث'),('implementation-docs','وثائق التطوير')],{'kind':'downloads'})
